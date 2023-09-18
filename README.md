@@ -1,2 +1,2 @@
-# IMDB_Project
+# Movie Analysis
  Movie Datasets
